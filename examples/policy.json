@@ -1,0 +1,10 @@
+{
+  "prune_dirs": [".git", ".obsidian", ".trash", "node_modules", "cache", "runtime", "backups"],
+  "sensitive_words": ["credential", "secret", "password", "access-token", "refresh-token", "凭据", "密钥", "密码"],
+  "sensitive_extensions": [".db", ".sqlite", ".sqlite3", ".pem", ".key", ".p12", ".pfx", ".log"],
+  "max_markdown_bytes": 8388608,
+  "require_frontmatter": true,
+  "required_frontmatter_keys": ["tags"],
+  "raw_prefixes": ["raw", "attachments"]
+}
+
