@@ -97,3 +97,4 @@ Every test uses generated synthetic content. No real vault or network service is
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
+
